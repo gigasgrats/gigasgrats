@@ -1,0 +1,18 @@
+window.colors = {
+    'primary-color': '#039BE5',
+    'secondary-color': '#039BE5',
+    'info-color': '#039BE5',
+    'danger-color': '#039BE5',
+    'success-color': '#039BE5',
+    'warning-color': '#039BE5',
+    'grey-200': '#039BE5',
+	'grey-300': '#039BE5',
+	'grey-400': '#BDBDBD',
+	'grey-500': '#9E9E9E',
+	'grey-900': '#212121',
+	'red-300': '#E57373',
+	'purple-500': '#9C27B0',
+    'chart-primary': '#039BE5',
+    'chart-secondary': '#E53935',
+    'chart-third': '#4CAF50',
+};
